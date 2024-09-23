@@ -1,0 +1,106 @@
+.tophead{
+    background:black;
+    border: 5px;color:dimgray;
+    padding-top:5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    margin-top:0px       ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sectop{
+    color: blueviolet;
+}
+.body1{
+    background:black;
+}
+.one1{
+    margin-right:50px;
+}
+.two2{
+    margin-right:50px;
+}
+.three3{
+    margin-right:50px;
+}
+.img1{
+    width:900px;    
+  }
+  p{
+    padding-top:20px;
+    color:darkgray;
+    padding-bottom:20px;
+  }
+  .cenh1{
+    color:darkgray;
+  }
+  .img2{
+       width:400px;
+       height:300px;
+       margin: 10px;
+       margin-left: 70px;
+       margin-right: 350px;
+       background: white;
+       padding-bottom: 50px;
+       border-radius: 50px;
+  }
+  .img3{
+    width:400px;
+    margin-top:10px;
+    margin-right:5px;
+    height:300px;
+    background:white;
+    padding-bottom: 50px;
+    border-radius: 50px;
+  }
+  .vid1{
+    width:1200px;
+  }
+  .tab1{
+    width:200px;
+    height:400px;
+    color: darkgray;
+    padding-top:20px;
+    padding-left: 20px;
+    padding-bottom:60px;
+    padding-right:20px;
+    margin-left: 5px;
+    margin-right: 150px;
+    background:linear-gradient(0deg,#ad5389,#3c1053);
+    border-radius:40px;
+  }
+  .tab2{
+    width:200px;
+    height:400px;
+    color: darkgray;
+    padding-top:20px;
+    padding-left: 20px;
+    padding-bottom:60px;
+    padding-right:20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background:linear-gradient(0deg,#ad5389,#3c1053);
+    border-radius:40px;
+  }
+  .tab3{
+    width:200px;
+    height:400px;
+    color: darkgray;
+    padding-top:20px;
+    padding-left: 20px;
+    padding-bottom:60px;
+    padding-right:20px;
+    margin-left: 59px;
+    margin-right: 10px;
+    background:linear-gradient(0deg,#ad5389,#3c1053);
+    border-radius:40px;
+  }
+  .but1{
+    font-size:40px;
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    background: rgb(216, 205, 255);
+    border-radius:30px;
+  }
+  
